@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950873425789",
+    "project_id": "sapna-6262d",
+    "storage_bucket": "sapna-6262d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950873425789:android:25af1ad3465396be35ae14",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950873425789-ghqsh224u2lu0cvo35qpie210uefid6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwGLWPXKFbmB7BKbi1cYU7G7BzLYDrnaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950873425789-ghqsh224u2lu0cvo35qpie210uefid6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
